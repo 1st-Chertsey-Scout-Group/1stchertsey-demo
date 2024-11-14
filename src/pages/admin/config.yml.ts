@@ -51,7 +51,7 @@ export async function GET() {
   } else {
     backend = {
       name: "github",
-      repo: "1st-Chertsey-Scout-Group/one-page-scout-website",
+      repo: "1st-Chertsey-Scout-Group/1stchertsey-demo",
     };
   }
 
