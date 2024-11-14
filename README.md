@@ -1,4 +1,4 @@
-# one-page-scout-website
+# 1stchertsey-demo
 
 ## 🧞 Commands
 
