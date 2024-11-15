@@ -60,7 +60,7 @@ export async function GET() {
   } else {
     backend = {
       name: "github",
-      repo: `${user}/${repo}`,
+      repo: "1st-Chertsey-Scout-Group/1stchertsey-demo",
     };
   }
 
